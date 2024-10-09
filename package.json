@@ -1,0 +1,17 @@
+{
+  "name": "jsfs-sthlm-2024-09-27-lab-jsfs-lab-kata-primefactors",
+  "version": "1.0.0",
+  "description": "Being a software developer involves a lot of logical problem solving and being able to do that in a readable and well structured manner. You should also be able to test your logic to make sure it runs as expected even if you were to refactor your code or make additions to it.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsx --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.7.5",
+    "tsx": "^4.19.1"
+  }
+}
